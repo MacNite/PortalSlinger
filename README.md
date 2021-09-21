@@ -5,6 +5,7 @@ PortalSlinger is an OpenSource Large Format 3D printer. The Idea was to built a 
 
 Built Volume: 	850 mm x 400 mm x 280 mm
 Frame:          Aluminium Extrusion 3060 Slot 8
+
 Hotend:       	Trianglelab Volcano, Nozzle 0.8mm
 
 Filament:     	1,75mm, PLA & PETG
