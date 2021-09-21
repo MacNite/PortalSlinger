@@ -1,5 +1,5 @@
 # PortalSlinger
-PortalSlinger is an OpenSource Large Format 3D printer. The Idea was to built a large format 3D printer in the most affordable way without sacrificing to much performance.
+PortalSlinger is an OpenSource Large Format 3D printer. The Idea was to built a large format 3D printer in the most affordable way without sacrificing to much performance. I've tested successfully teste print speeds of up to 100mm/s.
 
 # supported by https://www.cr-3d.de
 
