@@ -1,0 +1,6 @@
+M104 S240        	; set extruder temp
+M140 P1 S80 		; set bed temp Bed1
+M140 P2 S80 		; set bed temp Bed2
+M190 P1 S80 		; wait for bed temp Bed1
+M190 P2 S80 		; wait for bed temp Bed2
+M109 S240        	; wait for extruder temp
