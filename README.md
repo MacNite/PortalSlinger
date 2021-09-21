@@ -28,5 +28,5 @@ https://a360.co/3zzRa0U
 
 There is an untested / unbuilt beta-Version-CAD-Model available - this is only for "what is to come", major changes include re-positioning of y-belts, different tool head (not yet desgined) and MGN9H rails for the z-axis. Proceed with caution! https://a360.co/2XAqKi2
 
-![CorEssentials MK1](https://github.com/MacNite/CorEssentials/blob/MK1/pictures/CorEssentials_4.png?raw=true)
+![PortalSlinger](https://github.com/MacNite/PortalSlinger/blob/main/Pictures/20210910_215533.jpg?raw=true)
 
