@@ -27,6 +27,8 @@ Find the Fusion360 model for your viewing/download pleasure here (you can downlo
 
 https://a360.co/3zzRa0U
 
+.stp / .iges Files are not provided via GITHUB because they are to large (more than 25mb). You can download .stp / .iges files via the Autodesk Fusion 360 link provided above.
+
 There is an untested / unbuilt beta-Version-CAD-Model available - this is only for "what is to come", major changes include re-positioning of y-belts, different tool head (not yet desgined) and MGN9H rails for the z-axis. Proceed with caution! https://a360.co/2XAqKi2
 
 ![PortalSlinger](https://github.com/MacNite/PortalSlinger/blob/main/Pictures/20210910_215533.jpg?raw=true)
